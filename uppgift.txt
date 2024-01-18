@@ -1,0 +1,42 @@
+Uppgiften: Skapa en portfolio-hemsida för en fiktiv webutvecklare eller designer.
+
+Beskrivning:
+
+Skapa en enkel portfolio-hemsida som presenterar din fiktiva webutvecklare eller designers arbete.
+Hemsidan bör inkludera en startsida (index.html) och minst två ytterligare sidor (t.ex., portfolio.html och about.html).
+På startsidan ska det finnas en kort välkomsttext och länkar till de andra sidorna.
+Portfolio-sidan ska innehålla några fiktiva projekt med bilder, beskrivningar och länkar till respektive projekt.
+About-sidan kan innehålla en kort beskrivning av den fiktiva personen, deras färdigheter och utbildning.
+Referenshemsida: Du kan inspireras av GitHub Pages. Denna sida använder en ren och enkel design med en navigationsmeny och sektioner för projekt och information om användaren. Försök att anpassa designelement som färger, typsnitt och layout till din egen smak och stil.
+
+Kom ihåg att kopiera designelement för att öva dina HTML- och CSS-färdigheter, men undvik att kopiera innehållet ordagrant. Anpassa innehållet och gör det personligt för den fiktiva personen du skapar.
+
+
+
+
+Fiktiv designer: Alex Morgan
+
+Om Mig (about.html):
+En passionerad webutvecklare och designer baserad i Stockholm. Jag älskar att skapa användarcentrerade digitala upplevelser. Min kreativitet och tekniska färdigheter möts för att leverera unika och engagerande projekt.
+
+Portfolio (portfolio.html):
+Projekt 1: Bloggplattform "InkWell"
+Beskrivning: Utformning och utveckling av en responsiv bloggplattform för att möjliggöra enkel publicering av text och bilder. Användare kan registrera sig, skapa inlägg och interagera med varandras innehåll.
+Tekniker: HTML, CSS, JavaScript, Node.js, MongoDB.
+Länk: InkWell Blog
+Projekt 2: E-handelswebbplats "ArtistryHub"
+Beskrivning: Skapande av en e-handelswebbplats för konstnärer att visa och sälja sina verk. Användare kan bläddra bland konstnärers profiler, lägga till konstverk i varukorgen och slutföra köp.
+Tekniker: HTML, CSS, Bootstrap, JavaScript, Firebase.
+Länk: ArtistryHub E-commerce
+Projekt 3: Portföljsida "Canvas Showcase"
+Beskrivning: Design och utveckling av en elegant portföljsida för att visa upp mina egna projekt och färdigheter. Innehåller en minimalistisk layout och interaktiva sektioner.
+Tekniker: HTML, CSS, jQuery.
+Länk: Canvas Showcase
+Kontakta Mig (contact.html):
+Lägg till en sida där besökare kan kontakta Alex Morgan. Inkludera ett formulär med fält för namn, e-postadress och meddelande.
+Dessa exempelprojekt och beskrivningar kan användas som inspiration för din portfolio-hemsida. Kom ihåg att anpassa dem efter din egna stil och behov. Lycka till med din skapande process!
+
+
+
+
+

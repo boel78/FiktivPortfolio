@@ -28,14 +28,12 @@ body{
 
 .Info{
     display: flex;
-    justify-content: center;
     gap: 45px;
     background-color: white;
     border: 1px;
     border-style: solid;
     border-color: darkgray;
     margin-top: 50px;
-    align-content: flex-start;
 }
 
 .InfoText{

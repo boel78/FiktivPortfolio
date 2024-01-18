@@ -73,12 +73,49 @@ a{
     font-weight: bold;
 }
 
+.Projekt{
+    display:flex;
+    flex-direction: column;
+
+}
+
 .Projekt1{
     display: flex;
+    width: 100%;
     flex-direction: column;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: larger;
     margin-top: 65px;
+    padding: 4px;
+    border: 1px;
+    border-style: solid;
+    border-color: darkgrey;
+    background-color: white;
+}
+
+.Projekt2{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    margin-top: 65px;
+    padding: 4px;
+    border: 1px;
+    border-style: solid;
+    border-color: darkgrey;
+
+    background-color: white;
+}
+
+.Projekt3{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    margin-top: 65px;
+    margin-bottom: 100px;
     padding: 4px;
     border: 1px;
     border-style: solid;
